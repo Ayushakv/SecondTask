@@ -133,7 +133,8 @@ h3 {
 }
 
 .programCards {
-  min-height: 560px;
+  min-height: 430px;
+  border-radius: 5px;
 }
 @media screen and (max-width: 600px) {
   .navbar {
